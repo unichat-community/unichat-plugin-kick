@@ -69,7 +69,7 @@ local function parse_author_type(badges)
     return UniChatAuthorType:Viewer();
 end
 
-local emote_pattern = "^%[(%w+):(%d+):([%w_]+)%]$";
+local emote_pattern = "^%[(%w+):(%d+):([%w_-]+)%]$";
 local function preprocess_message_raw(raw_content)
     raw_content = raw_content:gsub("([^%s])%[", "%1 [");
     raw_content = raw_content:gsub("%]([^%s])", "] %1");
