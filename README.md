@@ -1,4 +1,4 @@
-# UniChat Widget - editableDefault
+# UniChat Plugin - Kick Integration
 
 <p align="center">
   <a href="./README.md">🇺🇸 English</a> |
