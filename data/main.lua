@@ -36,6 +36,7 @@ local channel_id = nil;
 local static_badges_urls = {
     moderator = "/assets/"..__PLUGIN_NAME.."/moderator.svg",
     broadcaster = "/assets/"..__PLUGIN_NAME.."/broadcaster.svg",
+    founder = "/assets/"..__PLUGIN_NAME.."/founder.svg"
 }
 
 local function parse_author_badges(raw_badges)
