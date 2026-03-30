@@ -1,11 +1,8 @@
 # UniChat Plugin - Kick Integration
 
-<p align="center">
-  <a href="./README.md">🇺🇸 English</a> |
-  <a href="./README.pt-br.md">🇧🇷 Português</a> 
-</p>
+[🇺🇸 English](./README.md) | [🇧🇷 Português](./README.pt-br.md)
 
-This plugin was split from the main **UniChat** repository to improve modularity and allow users to choose which widget they want to use.
+This plugin was split from the main [**UniChat**](https://codeberg.org/unichat/unichat) repository to improve modularity and allow users to choose which widget they want to use.
 
 Kick scraper events:
 - RemoveMessage
