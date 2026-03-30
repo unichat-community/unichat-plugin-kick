@@ -1,9 +1,6 @@
 # UniChat Plugin - Kick Integration
 
-<p align="center">
-  <a href="./README.md">🇺🇸 English</a> |
-  <a href="./README.pt-br.md">🇧🇷 Português</a> 
-</p>
+[🇺🇸 English](./README.md) | [🇧🇷 Português](./README.pt-br.md)
 
 Este plugin foi separado do repositório principal do **UniChat** para melhorar a modularidade e permitir que os usuários escolham qual widget desejam usar.
 
