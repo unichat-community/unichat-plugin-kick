@@ -5,4 +5,4 @@ author: Voguh <voguhofc@protonmail.com>
 license: MIT
 homepage: https://github.com/unichat-community/plugin-kick
 dependencies:
-  - unichat@[1.4.0,)
+  - unichat@[1.5.0-alpha.0,)

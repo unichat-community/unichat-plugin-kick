@@ -214,7 +214,7 @@ local opts = {
     },
     placeholder_text = "https://kick.com/popout/{CHANNEL_NAME}/chat",
     badges = { "experimental" },
-    icon = "fas fa-video",
+    icon = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABwCAYAAADG4PRLAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAS5JREFUeAHt3VFOwkAUQNGhcTUaQ1yhuEJDjC4H3AEQoE1vc84SevM+Jm/ajgEAAAAAAAAAANuyGwv5+zmexwzOp9PX2/7jMO7we/w+7Kbpc8zg9X2/yLOdBmkCxgkYJ2CcgHECxgkY9zI2bq7z51qYwDgB4wSMEzBOwDgB4wSMy+8D18o+kJsIGCdgnIBxAsYJGCdg3Ob3gXN55D7qM5nAOAHjBIwTME7AOAHjBIxzDrxgqZ3eI0xgnIBxAsYJGCdgnIBxAsa5F3on+0CeQsA4AeMEjBMwTsA4AeOcA2fi/UBuImCcgHECxgkYJ2CcgHH5e6HX9nK+F8qqCRgnYJyAcQLGCRgnYNzm3w+8tJeb8/+BSzGBcQLGCRgnYJyAcQLGCQgAAAAAAAAAAKzKPwoLMR6flGHDAAAAAElFTkSuQmCC",
     validate_url = validate_kick_url,
     on_ready = on_kick_ready
 }
